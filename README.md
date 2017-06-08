@@ -27,3 +27,8 @@ npm run build
 npm run dist
 
 ```
+
+##  访问
+
+开发：http://localhost:8080/index_dev.html  
+正式：地址+/index.html
